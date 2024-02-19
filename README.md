@@ -26,7 +26,7 @@ I'm always open to learning new things.
 
 Here are some projects I'm proud of:
 
-1. [Password Manager](https://github.com/garrywashere/password-manager): H446 Programming Project
+1. [Password Manager](https://github.com/garrywashere/password-manager): Password Manager - Programming Project
 2. [To-Do CLI App](https://github.com/garrywashere/todo-cli): Command-Line To-Do App
 3. [Simple Password Generator](https://github.com/garrywashere/password-generator): Simple Password Generator in Python
 
