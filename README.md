@@ -38,9 +38,6 @@ Feel free to explore my repositories to discover more interesting projects!
 
 [![Wakatime](https://wakatime.com/badge/user/018d88ca-6686-4ddc-a648-a108b3febbc3.svg)](https://wakatime.com/@018d88ca-6686-4ddc-a648-a108b3febbc3)
 
-## 🤝 Let's Connect
-
-- Instagram: [My Instagram Profile](https://instagram.com/garrywashere)
-- Website: [My Personal Blog](https://blog.garrynet.co.uk)
+## 🤝 Thank You
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
