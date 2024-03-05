@@ -4,12 +4,12 @@ I'm Garry, a passionate student and aspiring Software Engineer based in the UK. 
 
 ## 🚀 About Me
 
-I am enthusiastic about Computer Science, with a goal to become a Software Engineer specializing in Python.
+I am enthusiastic about Computer Science, intending to become a Software Engineer specialising in Python.
 
 - 🔭 Currently working on my school project: a password manager.
 - 🌱 Learning Machine Learning in Python.
 - 👯 Open to collaborating on any open-source Python projects to learn and contribute my knowledge.
-- 📫 How to reach me: [contact@garrynet.co.uk](mailto:contact@garrynet.co.uk).
+- 📫 How to reach me: [hello@garrynet.co.uk](mailto:hello@garrynet.co.uk).
 
 ## 🔧 Technologies & Tools
 
@@ -40,4 +40,4 @@ Feel free to explore my repositories to discover more interesting projects!
 
 ## 🤝 Thank You
 
-Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
+Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or want to chat. 😊
