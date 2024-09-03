@@ -1,43 +1,31 @@
 # Hi there! 👋
 
-I'm Garry, a passionate student and aspiring Software Engineer based in the UK. Welcome to my GitHub profile!
-
-## 🚀 About Me
-
-I am enthusiastic about Computer Science, intending to become a Software Engineer specialising in Python.
-
-- 🔭 Currently working on my school project: a password manager.
-- 🌱 Learning Machine Learning in Python.
-- 👯 Open to collaborating on any open-source Python projects to learn and contribute my knowledge.
-- 📫 How to reach me: [hello@garrynet.co.uk](mailto:hello@garrynet.co.uk).
+I'm Garry, a Computer Science student at the University of Essex with a strong passion for coding, problem-solving, and self-hosting. My primary proficiency lies in Python, where I've completed several academic and personal projects. Alongside Python, I have dabbled in languages like C#, JavaScript, and Rust. While I haven’t completed full projects in C# and Rust, I’ve explored these languages and am always eager to dive deeper into them for future projects.
 
 ## 🔧 Technologies & Tools
 
-Here are some technologies and tools I'm familiar with and still learning:
+- **Languages**: Python, C#, JavaScript, Rust
+- **Web Development**: HTML, CSS, Flask
+- **Tools**: Git, VSCodium, Docker, Ansible
+- **Databases**: SQL, SQLite
+- **Operating Systems**: Proficient in Linux (Debian, Fedora, Arch), Windows and MacOS
+- **Self-Hosting**: Extensive experience in self-hosting and managing multiple servers
 
-- **Programming Languages:** Python, JavaScript, C#
-- **Frameworks & Libraries:** NumPy, SciKit-learn, Pandas, Matplotlib
-- **Databases:** MySQL
-- **Tools:** Git, WSL2, Linux, Docker
+## 🌱 Currently Learning
 
-I'm always open to learning new things.
+- **Web Development**: Expanding my front-end and back-end development skills.
+- **Machine Learning**: Exploring various projects' basics and potential applications.
+- **Docker & Docker Swarm**: Enhancing my containerization and orchestration skills for scalable deployments.
 
-## 🌐 My Projects
+## 🎯 Goals
 
-Here are some projects I'm proud of:
+- **Short-term**: To contribute to open-source projects and build a portfolio of work that showcases my abilities.
+- **Long-term**: To become a well-rounded software engineer with expertise in multiple languages and domains.
 
-1. [Password Manager](https://github.com/garrywashere/password-manager): Password Manager - Programming Project
-2. [To-Do CLI App](https://github.com/garrywashere/todo-cli): Command-Line To-Do App
-3. [Simple Password Generator](https://github.com/garrywashere/password-generator): Simple Password Generator in Python
+## 📫 Get in Touch
 
-Feel free to explore my repositories to discover more interesting projects!
+- **Email**: garry@garrynet.co.uk
 
-## 📈 GitHub Stats
+Feel free to reach out if you want to collaborate on a project, discuss self-hosting, or just chat.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=garrywashere&show_icons=true&theme=dark)](https://github.com/garrywashere)
-
-[![Wakatime](https://wakatime.com/badge/user/018d88ca-6686-4ddc-a648-a108b3febbc3.svg)](https://wakatime.com/@018d88ca-6686-4ddc-a648-a108b3febbc3)
-
-## 🤝 Thank You
-
-Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or want to chat. 😊
+Thanks for stopping by!
