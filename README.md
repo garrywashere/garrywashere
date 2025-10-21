@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Garry, a second-year Computer Science undergraduate at the University of Essex in the United Kingdom. I’m especially interested in programming and software development, with experience in Python, Java, JavaScript, and web technologies. I also enjoy working with Linux, Docker, and other tools that keep my projects running smoothly.
+Hi, I'm Garry, a second year Computer Science undergraduate at the University of Essex in England. I’m especially interested in programming and software development, with experience in Python, Java, JavaScript, and web technologies. I also enjoy working with Linux, Docker, and other tools that keep my projects running smoothly.
 
 Beyond coding, I love exploring technology more broadly, from repairing electronics to photography. My website, [garrynet 2.0](https://garrynet.co.uk), is where I share my blog, portfolio, resume, and a bit more of what I’m working on (and what I’m interested in).
 
